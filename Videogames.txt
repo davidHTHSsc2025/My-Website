@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>My favorite games</title>
+</head>
+<body>
+   <h1>Welcome to my video games page</h1>
+   
+   <p> Here are my favoerite games <p>
+   
+   <ul>
+   
+   <li> Grow a garden </li>
+   <li> Rocket League </li>
+   
+   </ul>
+   
+   
+   <h2>Video game images</h2>
+   <p> <img src="rl.jpg"> </p>
+   <p> <img src="gag.jpg"> </p>
+   
+   <p> Thank you for visiting my video game page!</p>
+   </body>
+   </html>
